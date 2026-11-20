@@ -4,7 +4,7 @@ A lightweight, mobile-first web app to track bicycle maintenance, component wear
 
 Built as a single-page progressive web app (PWA) with zero build steps—running directly in the browser using Vanilla JavaScript, Tailwind CSS, Chart.js, and Firebase.
 
-👉 **Live Demo:** [gitovino.github.io/velometrics](https://gitovino.github.io/Velometrics/
+👉 **Live Demo:** https://gitovino.github.io/Velometrics/
 
 ---
 
